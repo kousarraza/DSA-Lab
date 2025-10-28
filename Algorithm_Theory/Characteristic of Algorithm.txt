@@ -1,0 +1,5 @@
+1. Input: some inputes 0 or more  
+2. Output: some solution at least 1 output
+3. Definitencess: every statement should be definite or clear meaning 
+4. Finiteness : duration of algorithm must be finite 
+5. Effectiveness: dont right unnecessary steps  

@@ -1,0 +1,3 @@
+How much memories space  it will consumed.
+
+Amount of space taken by an algorithm as function of input size(n)

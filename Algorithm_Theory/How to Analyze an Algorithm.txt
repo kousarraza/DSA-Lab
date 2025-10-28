@@ -1,0 +1,8 @@
+Algorithm swap(a,b)
+{
+
+	temp=a;__________________________________1(it will take 1 time to execute it)
+	a=b;______________________________________1
+	b=temp;___________________________________1
+}						_____
+					      f(n)=3 (3 is constant) so time complexity of this algorithm will be O(1)
